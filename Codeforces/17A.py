@@ -31,4 +31,3 @@ for m in range(2, n + 1):
 
 print("YES" if count >= k else "NO")
 # print(count)
- 
